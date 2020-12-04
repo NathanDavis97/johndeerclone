@@ -1,0 +1,20 @@
+body{
+  background-color: aliceblue;
+}
+
+.yellow-block{
+  height: 50px;
+  width: 3px;
+background-color: yellow;
+}
+.green-block{
+  height: 50px;
+  width: 3px;
+background-color: #3A742C;
+}
+
+.event{
+  background-image: url("mountain.jpg");
+  min-height: 10px;
+  background-size: cover;
+}
